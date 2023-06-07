@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 06 14:44:32 IST 2023","Tue Jun 06 14:44:34 IST 2023","2286","","Checkout Process","","","","should successfully complete the checkout process",""
+"failed","Tue Jun 06 14:42:09 IST 2023","Tue Jun 06 14:43:52 IST 2023","102855","","View About Page","","","","should navigate to the About page",""
+"passed","Tue Jun 06 14:44:08 IST 2023","Tue Jun 06 14:44:11 IST 2023","2827","","Cancel Checkout","","","","should cancel the checkout process",""
+"failed","Thu May 25 00:40:54 IST 2023","Thu May 25 00:41:05 IST 2023","10668","","Navigate to Azure Page","","","","should navigate from About page to Azure page",""
+"passed","Tue Jun 06 14:44:24 IST 2023","Tue Jun 06 14:44:26 IST 2023","1978","","Logout","","","","should logout from the website",""
+"passed","Tue Jun 06 14:44:17 IST 2023","Tue Jun 06 14:44:18 IST 2023","1306","","Product Filtering","","","","should filter products from low to high",""
